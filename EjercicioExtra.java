@@ -21,7 +21,7 @@ public class EjercicioExtra {
             for (int i = numero1; i <= numero2; i++) {
                 System.out.print(i);
                 if (i < numero2) {
-                    System.out.print(", ");
+                    System.out.print("* ");
                 }
             }
             
