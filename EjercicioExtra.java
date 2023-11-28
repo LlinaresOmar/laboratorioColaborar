@@ -8,6 +8,7 @@ public class EjercicioExtra {
 
         int numero1, numero2;
 
+        System.out.println("Modificación de Isaac prueba de git con IntelliJ");
         System.out.println("Introduce un número");
         numero1 = validaInt();
         do{
