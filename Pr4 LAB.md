@@ -2,14 +2,17 @@
 
 Esta práctica se realizará por parejas, pero ambos alumnos deberán de entregar el PDF en aules. Se va a trabajar la colaboración en proyectos mediante GitHub.
 
-Nombre Alumno1:  
-Nombre Alumno2:  
-URL del repositorio:
+Nombre Alumno1:  Omar Llinares  
+Nombre Alumno2:  Isaac Sánchez  
+URL del repositorio: 
 
 El alumno 1 deberá rellenar los apartados que aparece A1, y el alumnos 2 en A2.  
 Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub.
 
 1. A1: Cread un repositorio "laboratorioColaborar" en GitHub (Ponedlo público).
+
+![](Captura1.png)
+
 2. A2: Investigad sobre como utilizar GIT desde IntelliJ para explicarlo a A1.
 3. A1: Subid una práctica de "Programación" desde IntelliJ
 4. A2: Descargad el repositorio de A1.
