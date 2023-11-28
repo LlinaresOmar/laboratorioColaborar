@@ -26,18 +26,22 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 ![](a2_04.png)
 ![](a2_05.png)
 6. A1: Descarga el programa actual y modifica una parte.
+![](Captura3.png.jpg)
 7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
 ![](a2_08.png)
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
 ![](a2_11.png)
 9. A1:Investigad sobre la herramienta "CodeWithMe".
+
+Es una funcionalidad para los IDE de Jet Brains, para poder ver, editar, debugear etc... el código de forma compartida y a tiempo real. 
+
 10. A2: Investigad sobre la herramienta "GitHubCopilot".
 
 Herramienta IA basada en la nube desarrollada por Open AI y GitHub. El objetivo es asistir a los usuarios de JetBrains con un autocompletado del código.
 
-Vídeos de ayuda:  
-Subir proyecto desde GIT: https://www.youtube.com/watch?v=6WtA2dUDvPY  
-Clonar repositorio: https://www.youtube.com/watch?v=rcQBgm5vid0
-Colaborar con GIT: https://www.youtube.com/watch?v=ibmQkhAzk5I  
+Enlace a Repositorio:
+https://github.com/LlinaresOmar/laboratorioColaborar.git
+
+
 
 
