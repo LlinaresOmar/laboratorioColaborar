@@ -20,17 +20,19 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 
 4. A2: Descargad el repositorio de A1.
 
-![](a2_02.png)
-![](a2_03.png)
-5. A2: Haced modificaciones en el código y subidlo mediante IntelliJ.
-![](a2_04.png)
-![](a2_05.png)
+![](a2_02.png)   
+![](a2_03.png)   
+5. A2: Haced modificaciones en el código y subidlo mediante IntelliJ.  
+![](a2_04.png)  
+![](a2_05.png)  
 6. A1: Descarga el programa actual y modifica una parte.
-![](Captura3.png.jpg)
+![](Captura3.png)  
 7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
-![](a2_08.png)
+![](a2_08.png)  
 8. A1 y A2 : Subid los cambios y resolved el conflicto.
-![](a2_11.png)
+![](a2_11.png)  
+
+
 9. A1:Investigad sobre la herramienta "CodeWithMe".
 
 Es una funcionalidad para los IDE de Jet Brains, para poder ver, editar, debugear etc... el código de forma compartida y a tiempo real. 
