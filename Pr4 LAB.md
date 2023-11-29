@@ -22,10 +22,12 @@ Las imágenes y este mismo archiuvo con su versión PDF deberán estar en GitHub
 
 ![](a2_02.png)   
 ![](a2_03.png)   
+
 5. A2: Haced modificaciones en el código y subidlo mediante IntelliJ.  
 ![](a2_04.png)  
 ![](a2_05.png)  
-6. A1: Descarga el programa actual y modifica una parte.
+6. A1: Descarga el programa actual y modifica una parte.  
+
 ![](Captura3.png)  
 7. A2: Modifica la misma parte que A1 de manera que surja un coinflicto
 ![](a2_08.png)  
